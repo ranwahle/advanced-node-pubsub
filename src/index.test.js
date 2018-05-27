@@ -1,6 +1,6 @@
-import MainClass from ".";
+const MainClass = require('./index')
 
 test('Create main class', () => {
     const mainClass = new MainClass();
-    expext(mainClass).toBeTruthy();
+    expect(mainClass).toBeTruthy();
 })

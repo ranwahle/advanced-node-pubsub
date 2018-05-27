@@ -1,7 +1,9 @@
-export default class MainClass {
+class MainClass {
 
     constructor() {
         console.log('initializing');
     }
 }
 
+
+module.exports = MainClass;
