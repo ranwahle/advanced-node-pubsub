@@ -1,0 +1,19 @@
+{
+  "name": "advanced-node-pubsub",
+  "version": "1.0.0",
+  "description": "Pub sub repo for advanced node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranwahle/advanced-node-pubsub.git"
+  },
+  "author": "Tikal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranwahle/advanced-node-pubsub/issues"
+  },
+  "homepage": "https://github.com/ranwahle/advanced-node-pubsub#readme"
+}
